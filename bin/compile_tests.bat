@@ -1,0 +1,1 @@
+javac -cp "src/test/resources/junit-4.12.jar;Classes/" src/test/java/is/ru/tictactoeProject/tictactoeTests.java -d classes 

@@ -1,7 +1,9 @@
+package is.ru.tictactoeProject;
+
 public class tictactoe
 	{
-		public static void main(String[] args)
+		public static int temp(String text)
 		{
-			System.out.println("Hello World!"); // Display the string.
+			return 0;
 		}
 	}
